@@ -92,6 +92,7 @@ LingmoOS New Website: <https://testweb.lingmo.org>
 
 ## *Before 2024-06-15*
 LingmoOS Git Server closed down
+
 <img src="images/2024_06_15_lingmo_gitlab_closed_down.png" width="300">
 
 ## 2024-07-01
@@ -99,4 +100,5 @@ LingmoOS Community and Offical Website closed down temporarily due to the lack o
 
 ## 2024-07-13
 Scheduled to restore LingmoOS Website.
+
 <img src="images/2024_07_13_restore_lingmo.org.png" width="300">
