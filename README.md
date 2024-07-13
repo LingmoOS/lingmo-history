@@ -11,7 +11,7 @@ Changed project name to SwiftOS
 
 <img src="images/2023_04_16_change_name_to_swiftos.png" width="300">
 
-## 2023-*unknown*
+## *Before 2023-05-07*
 SwiftOS 6.05.1 released: <https://cloud.189.cn/web/share?code=QJbIvyzAjuie> (password:9imq)
 
 ## 2023-05-27
@@ -24,8 +24,9 @@ The earliest record for the question `What's the password of LingmoOS Live User`
 
 <img src="images/2023_06_26_live_password_bug.png" width="300">
 
-## 2023-*unknown*
-LingmoOS 1.0.6 released (source: <https://bbs.lingmo.org/d/4-1xban-ben-de-yi-ge-xiao-wen-ti>)
+## *Before 2023-10-05*
+LingmoOS 1.0.6 released: <https://cloud.189.cn/web/share?code=mi22imaIB773> (password:cbn3)
+<img src="images/2023_10_15_lingmoos_1.0.6.png" width="300">
 
 ## 2023-11-28
 Started [LingmoOS Community](https://bbs.lingmo.org/)
@@ -89,8 +90,9 @@ Snowball joined in the LingmoOS Development Team
 ## 2024-05-29
 LingmoOS New Website: <https://testweb.lingmo.org>
 
-## 2024-06-*unknown*
+## *Before 2024-06-15*
 LingmoOS Git Server closed down
+<img src="images/2024_06_15_lingmo_gitlab_closed_down.png" width="300">
 
 ## 2024-07-01
 LingmoOS Community and Offical Website closed down temporarily due to the lack of money: <https://www.bilibili.com/opus/949064296413790211>
