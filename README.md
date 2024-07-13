@@ -9,7 +9,7 @@ chun-awa joined in the LingmoOS QQ Group
 ## 2023-04-16
 Changed project name to SwiftOS
 
-<img src="images/1.png" width="300">
+<img src="images/2023_04_16_change_name_to_swiftos.png" width="300">
 
 ## 2023-*unknown*
 SwiftOS 6.05.1 released: <https://cloud.189.cn/web/share?code=QJbIvyzAjuie> (password:9imq)
@@ -17,7 +17,7 @@ SwiftOS 6.05.1 released: <https://cloud.189.cn/web/share?code=QJbIvyzAjuie> (pas
 ## 2023-05-27
 Changed project name to LingmoOS
 
-<img src="images/2.png" width="300">
+<img src="images/2023_05_27_change_name_to_lingmoos.png" width="300">
 
 ## 2023-*unknown*
 LingmoOS 1.0.6 released (source: <https://bbs.lingmo.org/d/4-1xban-ben-de-yi-ge-xiao-wen-ti>)
@@ -70,7 +70,7 @@ Started to port LingmoDE to Alpine Linux: <https://github.com/LingmoOS-Testing/l
 ## 2024-05-02
 Started [LingmoOS Git Server](https://git.lingmo.org/)
 
-<img src="images/3.png" width="300">
+<img src="images/2024_05_02_start_lingmoos_git_server.png" width="300">
 
 ## 2024-05-04
 Started to port LingmoDE to Arch Linux: <https://github.com/LingmoOS-Testing/lingmo-arch-pkgbuilder/commit/9f7bd0c30a6949baacf440d8c5f08d676afcbf4b>
