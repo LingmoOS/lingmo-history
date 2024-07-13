@@ -97,5 +97,6 @@ LingmoOS Git Server closed down
 ## 2024-07-01
 LingmoOS Community and Offical Website closed down temporarily due to the lack of money: <https://www.bilibili.com/opus/949064296413790211>
 
-## 2024-07-19(Future)
+## 2024-07-13
 Scheduled to restore LingmoOS Website.
+<img src="images/2024_07_13_restore_lingmo.org.png" width="300">
