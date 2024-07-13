@@ -19,6 +19,11 @@ Changed project name to LingmoOS
 
 <img src="images/2023_05_27_change_name_to_lingmoos.png" width="300">
 
+## 2023-06-26
+The earliest record for the question `What's the password of LingmoOS Live User`
+
+<img src="images/2023_06_26_live_password_bug.png" width="300">
+
 ## 2023-*unknown*
 LingmoOS 1.0.6 released (source: <https://bbs.lingmo.org/d/4-1xban-ben-de-yi-ge-xiao-wen-ti>)
 
