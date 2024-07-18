@@ -1,10 +1,35 @@
 # History of LingmoOS
 
+## 2023-01-11
+Offically annouced CuteOS(based on Ubuntu) will be released: <https://t.bilibili.com/749952679358234648>
+
+## 2023-01-16
+Started cuteos.cn website: <https://t.bilibili.com/751625676494209048>
+
+## 2023-01-18
+CuteOS finally released: <https://t.bilibili.com/752367795319078969>
+
+## 2023-01-29
+CuteOS 1.5 released: <https://t.bilibili.com/756437487269707824>
+
 ## 2023-02-05
-CuteOS(based on Ubuntu) released: <https://www.bilibili.com/video/BV1Nd4y1H7ZW>
+[Floating dream](https://github.com/lingmo-dream) published the first video about CuteOS on bilibili: <https://www.bilibili.com/video/BV1Nd4y1H7ZW>
+
+CuteOS 23.02.3 released: <https://t.bilibili.com/759233558234529800>
+
+## 2023-02-10
+CuteOS 2023-02-10 build: <https://www.bilibili.com/video/BV1pj411T7F1>
 
 ## 2023-03-05
+CuteOS 23.03.1.3304.10-8 released: <https://t.bilibili.com/769459746522529811>
+
 chun-awa joined in the LingmoOS QQ Group
+
+## 2023-04-03
+CuteOS 23.05.1 beta release: <https://t.bilibili.com/769459746522529811>
+
+## 2023-04-08
+CuteOS 23.05.1 LTS released: <https://www.bilibili.com/video/BV1Ac411s7SV>
 
 ## 2023-04-16
 Changed project name to SwiftOS
@@ -26,6 +51,7 @@ The earliest record for the question `What's the password of LingmoOS Live User`
 
 ## *Before 2023-10-05*
 LingmoOS 1.0.6 released: <https://cloud.189.cn/web/share?code=mi22imaIB773> (password:cbn3)
+
 <img src="images/2023_10_15_lingmoos_1.0.6.png" width="300">
 
 ## 2023-11-28
@@ -88,7 +114,7 @@ Started to port LingmoOS to Arch Linux: <https://github.com/LingmoOS-Testing/lin
 Snowball joined in the LingmoOS Development Team
 
 ## 2024-05-29
-LingmoOS New Website: <https://testweb.lingmo.org>
+LingmoOS New Website: <https://testweb.lingmo.org>(now moved to <https://lingmo.org>)
 
 ## *Before 2024-06-15*
 LingmoOS Git Server closed down
@@ -96,9 +122,14 @@ LingmoOS Git Server closed down
 <img src="images/2024_06_15_lingmo_gitlab_closed_down.png" width="300">
 
 ## 2024-07-01
-LingmoOS Community and Offical Website closed down temporarily due to the lack of money: <https://www.bilibili.com/opus/949064296413790211>
+LingmoOS Community and Offical Website closed down temporarily due to the lack of money: <https://www.bilibili.com/949064296413790211>
 
 ## 2024-07-13
 Scheduled to restore LingmoOS Website.
 
 <img src="images/2024_07_13_restore_lingmo.org.png" width="300">
+
+## 2024-07-15
+LingmoOS Website came back with [the new frontend](https://github.com/TeamVastsea/lingmoos-frontend)
+
+<img src="images/2024_07_15_restored_lingmo.org.png" width="300">
