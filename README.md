@@ -133,3 +133,6 @@ Scheduled to restore LingmoOS Website.
 LingmoOS Website came back with [the new frontend](https://github.com/TeamVastsea/lingmoos-frontend)
 
 <img src="images/2024_07_15_restored_lingmo.org.png" width="300">
+
+## 2024-07-21
+LingmoOS Community restored, but all data in the original bbs.lingmo.org lost so all links related bbs.lingmo.org above won't work anymore
