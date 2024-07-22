@@ -122,7 +122,7 @@ LingmoOS Git Server closed down
 <img src="images/2024_06_15_lingmo_gitlab_closed_down.png" width="300">
 
 ## 2024-07-01
-LingmoOS Community and Offical Website closed down temporarily due to the lack of money: <https://www.bilibili.com/949064296413790211>
+LingmoOS Community and Offical Website closed down temporarily due to the lack of money: <https://t.bilibili.com/949064296413790211>
 
 ## 2024-07-13
 Scheduled to restore LingmoOS Website.
