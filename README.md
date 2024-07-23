@@ -136,3 +136,6 @@ LingmoOS Website came back with [the new frontend](https://github.com/TeamVastse
 
 ## 2024-07-21
 LingmoOS Community restored, but all data in the original bbs.lingmo.org lost so all links related bbs.lingmo.org above won't work anymore
+
+## 2024-07-22
+Lingmo Community closed down once again due to a unknown attack to the server
