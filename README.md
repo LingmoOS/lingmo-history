@@ -116,6 +116,9 @@ Snowball joined in the LingmoOS Development Team
 ## 2024-05-29
 LingmoOS New Website: <https://testweb.lingmo.org>(now moved to <https://lingmo.org>)
 
+## 2024-06-08
+To solve [the problem](https://github.com/LingmoOS/lingmo-history#2023-06-26) mentioned above, LingmoOS LiveCD finally have autologin support, at least in [ArchLingmo](https://github.com/LingmoOS/archlingmo-archiso-config/commit/5d7bf7de91259b49fdfd4e89c0726c4b9dcd88c7)
+
 ## *Before 2024-06-15*
 LingmoOS Git Server closed down
 
