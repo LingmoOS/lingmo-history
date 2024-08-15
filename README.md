@@ -9,8 +9,12 @@ Started cuteos.cn website: <https://t.bilibili.com/751625676494209048>
 ## 2023-01-18
 CuteOS finally released: <https://t.bilibili.com/752367795319078969>
 
+## *Before 2023-01-19*
+Created [LingmoOS gitee Organization](https://gitee.com/LingmoOS)
+
 ## 2023-01-29
 CuteOS 1.5 released: <https://t.bilibili.com/756437487269707824>
+Created [LingmoOS GitHub Organization](https://github.com/LingmoOS)
 
 ## 2023-02-05
 [Floating dream](https://github.com/lingmo-dream) published the first video about CuteOS on bilibili: <https://www.bilibili.com/video/BV1Nd4y1H7ZW>
@@ -137,8 +141,17 @@ LingmoOS Website came back with [the new frontend](https://github.com/TeamVastse
 
 <img src="images/2024_07_15_restored_lingmo.org.png" width="300">
 
+## 2024-07-18
+Started Lingmo Helium(a.k.a. NextOS) Project: <https://github.com/LingmoOS/NextOS/commit/954a63cad38eb4cf0b11e1e9f2af33cb29b07fe6>
+
 ## 2024-07-21
 LingmoOS Community restored, but all data in the original bbs.lingmo.org lost so all links related bbs.lingmo.org above won't work anymore
 
 ## 2024-07-22
 *Before 9:00 PM*: Lingmo Community closed down once again due to a unknown attack to the server
+
+## 2024-07-28
+Started ArchLingmo TODOs for the initial release: <https://github.com/LingmoOS/archlingmo-archiso-config/issues/3>
+
+## 2024-08-10
+[LingmoOS gitee Organization](https://gitee.com/LingmoOS) came back with 2 new maintainers: [chun-awa](https://gitee.com/chun-awa) & [qinyinan](https://gitee.com/qinyinan)
