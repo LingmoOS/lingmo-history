@@ -155,3 +155,9 @@ Started ArchLingmo TODOs for the initial release: <https://github.com/LingmoOS/a
 
 ## 2024-08-10
 [LingmoOS gitee Organization](https://gitee.com/LingmoOS) came back with 2 new maintainers: [chun-awa](https://gitee.com/chun-awa) & [qinyinan](https://gitee.com/qinyinan)
+
+## 2024-09-05
+LingmoOS 2.0 "Hydrogen" released
+
+## 2024-09-14
+ArchLingmo project stopped
