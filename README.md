@@ -164,3 +164,6 @@ ArchLingmo project stopped
 
 ## 2024-09-26
 Officially announced that LingmoOS 2.0 (codename "Hydrogen") released: <https://github.com/orgs/LingmoOS/discussions/19>
+
+## 2024-09-30
+GitHub repository cleanup. (from ~200 to 67)
