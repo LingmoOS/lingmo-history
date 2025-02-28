@@ -167,3 +167,6 @@ Officially announced that LingmoOS 2.0 (codename "Hydrogen") released: <https://
 
 ## 2024-09-30
 GitHub repository cleanup. (from ~200 to 67)
+
+## 2025-02-26
+ArchLingmo reborned (not sure if it will still be maintained)
